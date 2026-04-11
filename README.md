@@ -1,4 +1,4 @@
-# Ubuntu Server Security Hardening SSH UFW Firewall and Service Reduction.
+# Ubuntu Server Security Hardening: SSH, UFW Firewall, and Service Reduction.
 
 ## Objective
 
