@@ -1,6 +1,6 @@
 # Ubuntu Server Security Hardening: SSH, UFW Firewall, and Service Reduction.
 
-## Objective
+## Objective 
 
   This lab/project aims to develop practical skills in Linux system hardening using an Ubuntu Server environment. In this lab, we focused on identifying security weaknesses in a baseline system and implementing configurations to reduce the overall attack surface. Through the use of system analysis tools and commands, we examined active services, open ports, and existing firewall settings to understand the system’s initial security posture. We then applied hardening techniques, including securing SSH by disabling root and password-based authentication, implementing key-based access, configuring firewall rules using UFW, and disabling unnecessary services. The final step in this lab involved verifying the effectiveness of these changes by comparing the system’s state before and after hardening, ensuring improved security and reduced exposure to potential threats.
 
